@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="4afb599d-62db-4110-a97e-abd5b5921a36" 
+        solutionId="4afb599d-62db-4110-a97e-abd5b5921a36" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Addin_Cobbler"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="3b05aa2c-dcb8-42ba-8580-5ac71d2de6a5" />
+  </features>
+</package>
